@@ -1,0 +1,9 @@
+#Sun Jul 08 21:16:29 JST 2012
+DaoType=None
+DefaultResourcePath=/Seasar2Sample/src/main/resources
+DefaultRootPackage=sample
+DefaultSrcPath=/Seasar2Sample/src/main/java
+ServletPath=Seasar2Sample
+ViewType=SA-Struts
+WebContentsRoot=src/main/webapp
+eclipse.preferences.version=1
